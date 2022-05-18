@@ -1,3 +1,17 @@
+/******************************************
+* Created by @ryujonathan this May 18 2022
+*
+* Console-line application, Reversi game
+* against computer, algorithm to be
+* improved, begun as part of assignment for
+* the APS105 course at the University of
+* Toronto.
+*
+* Looking to implement a 2P option, escape
+* for invalid moves, and possibly GUI in
+* a different language if enough time.
+******************************************/
+
 #include <stdio.h>
 #include <stdbool.h>
 
